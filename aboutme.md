@@ -1,7 +1,6 @@
 ---
 layout: page
-title: About me
-subtitle: Subtitle test
+subtitle: building; boxing; brewing
 ---
 
 My name is Arjun Nayini and I'm an iOS engineer based out of San Francisco.
