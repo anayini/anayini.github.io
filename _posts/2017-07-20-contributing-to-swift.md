@@ -1,5 +1,7 @@
 ---
+layout: post
 title: My First Contribution to Swift
+tags: ["ios", "swift", "oss"]
 ---
 
 My first contribution to the Swift programming language was [merged](https://github.com/apple/swift/pull/8354) earlier this year.

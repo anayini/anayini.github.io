@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Review of Phuket Dragon Muay Thai
+tags: ["muay thai", "boxing"]
 ---
 
 It is a hot, humid morning on Phuket's **Soi Tai-ed**, what has been called a mecca

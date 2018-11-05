@@ -1,5 +1,8 @@
 ---
+layout: post
 title: iOS Network Debugging With Charles Proxy
+tags: ["ios", "swift", "debugging"]
+
 ---
 
 I was recently working on a project where I encountered a bit of slow down in
