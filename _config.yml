@@ -8,7 +8,7 @@ url: "https://anayini.github.io"
 baseurl: ""
 
 # Name of website
-title: B3
+title: b3
 
 # Short description of your site
 description: building; boxing; brewing
@@ -61,7 +61,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
+  email: "aanayini@gmail.com"
   github: anayini
 #  reddit: yourname
 #  google-plus: +DeanAttali
@@ -82,7 +82,7 @@ share-links-active:
   twitter: true
   facebook: false
   google: false
-  linkedin: true
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer

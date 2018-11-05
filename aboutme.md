@@ -1,5 +1,6 @@
 ---
 layout: page
+title: b3
 subtitle: building; boxing; brewing
 ---
 
